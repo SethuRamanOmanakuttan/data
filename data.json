@@ -1,0 +1,92 @@
+{
+  "AdsUrls": [
+    "https://www.wordstream.com/wp-content/uploads/2021/07/persuasive-ads-coca-cola.jpg",
+    "https://mindesigns.com.au/wp-content/uploads/2024/07/82546073_10158492387896412_102606704276930560_n-1024x1024.jpg"
+  ],
+  "FeedbackTexts": [
+    "Alright!",
+    "Yeah!!",
+    "Oh Yeah!!",
+    "Wowww!!"
+  ],
+  "Difficulty": {
+    "Easy": [
+      {
+        "question": "A for ?",
+        "answer": "APPLE"
+      },
+      {
+        "question": "B for ?",
+        "answer": "BAT"
+      },
+      {
+        "question": "C for ?",
+        "answer": "CATTLE"
+      },
+      {
+        "question": "D for ?",
+        "answer": "DICK"
+      },
+      {
+        "question": "E for ?",
+        "answer": "ELEPHANT"
+      },
+      {
+        "question": "F",
+        "answer": "FUCKOFF"
+      }
+    ],
+    "Medium": [
+      {
+        "question": "A for ?",
+        "answer": "APPLE"
+      },
+      {
+        "question": "B for ?",
+        "answer": "BAT"
+      },
+      {
+        "question": "C for ?",
+        "answer": "CATTLE"
+      },
+      {
+        "question": "D for ?",
+        "answer": "DICK"
+      },
+      {
+        "question": "E for ?",
+        "answer": "ELEPHANT"
+      },
+      {
+        "question": "F",
+        "answer": "FUCKOFF"
+      }
+    ],
+    "Hard": [
+      {
+        "question": "A for ?",
+        "answer": "APPLE"
+      },
+      {
+        "question": "B for ?",
+        "answer": "BAT"
+      },
+      {
+        "question": "C for ?",
+        "answer": "CATTLE"
+      },
+      {
+        "question": "D for ?",
+        "answer": "DICK"
+      },
+      {
+        "question": "E for ?",
+        "answer": "ELEPHANT"
+      },
+      {
+        "question": "F",
+        "answer": "FUCKOFF"
+      }
+    ]
+  }
+}
