@@ -18,80 +18,56 @@
   "Difficulty": {
     "Easy": [
       {
-        "question": "A for ?",
-        "answer": "APPLE"
+        "question": "The first cryptocurrency?",
+        "answer": "BITCOIN"
       },
       {
-        "question": "B for ?",
-        "answer": "BAT"
+        "question": "A digital currency from Ethereum?",
+        "answer": "ETHER"
       },
       {
-        "question": "C for ?",
-        "answer": "CATTLE"
+        "question": "A popular crypto meme coin?",
+        "answer": "DOGE"
       },
       {
-        "question": "D for ?",
-        "answer": "DICK"
-      },
-      {
-        "question": "E for ?",
-        "answer": "ELEPHANT"
-      },
-      {
-        "question": "F",
-        "answer": "FUCKOFF"
+        "question": "The process of validating crypto transactions?",
+        "answer": "MINING"
       }
     ],
     "Medium": [
       {
-        "question": "A for ?",
-        "answer": "APPLE"
+        "question": "What does NFT stand for?",
+        "answer": "NON FUNGIBLE TOKEN"
       },
       {
-        "question": "B for ?",
-        "answer": "BAT"
+        "question": "Popular blockchain for DeFi projects?",
+        "answer": "ETHEREUM"
       },
       {
-        "question": "C for ?",
-        "answer": "CATTLE"
+        "question": "The max supply of Bitcoin?",
+        "answer": "TWENTY ONE MILLION"
       },
       {
-        "question": "D for ?",
-        "answer": "DICK"
-      },
-      {
-        "question": "E for ?",
-        "answer": "ELEPHANT"
-      },
-      {
-        "question": "F",
-        "answer": "FUCKOFF"
+        "question": "The term for crypto transaction grouping?",
+        "answer": "BLOCK"
       }
     ],
     "Hard": [
       {
-        "question": "A for ?",
-        "answer": "APPLE"
+        "question": "The consensus mechanism used by Bitcoin?",
+        "answer": "PROOF OF WORK"
       },
       {
-        "question": "B for ?",
-        "answer": "BAT"
+        "question": "The creator of Bitcoin?",
+        "answer": "SATOSHI NAKAMOTO"
       },
       {
-        "question": "C for ?",
-        "answer": "CATTLE"
+        "question": "An Ethereum upgrade from PoW to PoS?",
+        "answer": "THEMERGE"
       },
       {
-        "question": "D for ?",
-        "answer": "DICK"
-      },
-      {
-        "question": "E for ?",
-        "answer": "ELEPHANT"
-      },
-      {
-        "question": "F",
-        "answer": "FISH"
+        "question": "A type of digital signature used in Bitcoin?",
+        "answer": "ELLIPTIC CURVE"
       }
     ]
   }
