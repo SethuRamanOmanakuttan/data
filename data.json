@@ -36,16 +36,8 @@
     ],
     "Medium": [
       {
-        "question": "What does NFT stand for?",
-        "answer": "NON FUNGIBLE TOKEN"
-      },
-      {
         "question": "Popular blockchain for DeFi projects?",
         "answer": "ETHEREUM"
-      },
-      {
-        "question": "The max supply of Bitcoin?",
-        "answer": "TWENTY ONE MILLION"
       },
       {
         "question": "The term for crypto transaction grouping?",
