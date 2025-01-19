@@ -9,6 +9,12 @@
     "Oh Yeah!!",
     "Wowww!!"
   ],
+  "CongratulationsTexts": [
+    "Alright!",
+    "Yeah!!",
+    "Oh Yeah!!",
+    "Wowww!!"
+  ],
   "Difficulty": {
     "Easy": [
       {
@@ -85,7 +91,7 @@
       },
       {
         "question": "F",
-        "answer": "FUCKOFF"
+        "answer": "FISH"
       }
     ]
   }
