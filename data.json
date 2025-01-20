@@ -1,25 +1,20 @@
 {
-  "AdsUrls": [
-
-  ],
+  "AdsUrls": [],
   "FeedbackTexts": [
-    "Alright!",
-    "Yeah!!",
-    "Oh Yeah!!",
-    "Wowww!!"
+    "LFG!",
+    "Alright!!",
+    "Bullseye!!",
+    "Wowww!!",
+    "Bingo!"
   ],
   "CongratulationsTexts": [
-    "congratulation"
-  ],  
+    "Congratulations!"
+  ],
   "Difficulty": {
     "Easy": [
       {
         "question": "The first cryptocurrency?",
         "answer": "BITCOIN"
-      },
-      {
-        "question": "A digital currency from Ethereum?",
-        "answer": "ETHER"
       },
       {
         "question": "A popular crypto meme coin?",
@@ -34,16 +29,12 @@
         "answer": "SATOSHI"
       },
       {
-        "question": "How are Bitcoin transactions secured?",
-        "answer": "HASHING"
-      },
-      {
         "question": "A place to store your crypto?",
         "answer": "WALLET"
       },
       {
         "question": "A popular stablecoin?",
-        "answer": "USDTETHER"
+        "answer": "TETHER" 
       },
       {
         "question": "Cryptocurrency inspired by memes?",
@@ -54,46 +45,14 @@
         "answer": "DEX"
       },
       {
-        "question": "A cryptocurrency derived from Bitcoin?",
-        "answer": "LITECOIN"
-      },
-      {
         "question": "Digital collectibles on the blockchain?",
         "answer": "NFTS"
-      },
-      {
-        "question": "A common Ethereum token standard?",
-        "answer": "ERCSTANDARD"
-      },
-      {
-        "question": "A reward for mining a block?",
-        "answer": "REWARD"
-      },
-      {
-        "question": "The term for a group of crypto transactions?",
-        "answer": "BLOCK"
-      },
-      {
-        "question": "Ethereum's native token?",
-        "answer": "ETHER"
-      },
-      {
-        "question": "Storing crypto offline is called?",
-        "answer": "COLDWALLET"
-      },
-      {
-        "question": "What does a private key unlock?",
-        "answer": "WALLET"
-      },
+      }
     ],
     "Medium": [
       {
         "question": "Popular blockchain for DeFi projects?",
         "answer": "ETHEREUM"
-      },
-      {
-        "question": "The process of verifying crypto transactions?",
-        "answer": "CONSENSUS"
       },
       {
         "question": "What does PoW stand for?",
@@ -104,7 +63,7 @@
         "answer": "BITCOINCASH"
       },
       {
-        "question": "An initial coin offering?",
+        "question": "What is a new coin offering called?", 
         "answer": "ICO"
       },
       {
@@ -112,60 +71,24 @@
         "answer": "NAMECOIN"
       },
       {
-        "question": "Ethereum's founder?",
-        "answer": "VITALIK"
-      },
-      {
-        "question": "A consensus algorithm in Ethereum?",
-        "answer": "PROOFOFSTAKE"
-      },
-      {
         "question": "A privacy-focused cryptocurrency?",
         "answer": "MONERO"
-      },
-      {
-        "question": "A token standard for NFTs?",
-        "answer": "ERCSTANDARD"
-      },
-      {
-        "question": "How are crypto transactions secured?",
-        "answer": "HASHES"
       },
       {
         "question": "What does Chainlink provide to smart contracts?",
         "answer": "DATA"
       },
       {
-        "question": "What is used to verify transactions?",
-        "answer": "SIGNATURES"
-      },
-      {
-        "question": "Gas fees are paid in which currency?",
-        "answer": "ETH"
-      },
-      {
         "question": "A crypto project for interoperability?",
         "answer": "POLKADOT"
       },
       {
-        "question": "What is the main purpose of DeFi?",
-        "answer": "FINANCE"
-      },
-      {
-        "question": "A tool to store private keys?",
+        "question": "A popular hardware wallet brand?", 
         "answer": "LEDGER"
       },
       {
         "question": "What runs decentralized apps?",
         "answer": "BLOCKCHAIN"
-      },
-      {
-        "question": "A pseudonym for Bitcoin's creator?",
-        "answer": "SATOSHI"
-      },
-      {
-        "question": "A block explorer shows transaction?",
-        "answer": "HISTORY"
       }
     ],
     "Hard": [
@@ -174,16 +97,8 @@
         "answer": "PROOFOFWORK"
       },
       {
-        "question": "The creator of Bitcoin?",
-        "answer": "SATOSHI"
-      },
-      {
         "question": "An Ethereum upgrade to PoS?",
         "answer": "THEMERGE"
-      },
-      {
-        "question": "A type of digital signature in crypto?",
-        "answer": "ELLIPTIC"
       },
       {
         "question": "The process of splitting a blockchain?",
@@ -194,16 +109,8 @@
         "answer": "SHARDING"
       },
       {
-        "question": "Crypto without a central issuer?",
-        "answer": "DECENTRAL"
-      },
-      {
-        "question": "Cryptographic process ensuring data security?",
-        "answer": "ENCRYPTION"
-      },
-      {
         "question": "Where are crypto transactions recorded?",
-        "answer": "LEDGER"
+        "answer": "BLOCKCHAIN" 
       },
       {
         "question": "A digital marketplace for NFTs?",
@@ -214,10 +121,6 @@
         "answer": "SHAHASH"
       },
       {
-        "question": "A synonym for blockchain forks?",
-        "answer": "UPGRADES"
-      },
-      {
         "question": "The process to generate new tokens?",
         "answer": "MINTING"
       },
@@ -226,20 +129,8 @@
         "answer": "DAO"
       },
       {
-        "question": "Who validates PoS transactions?",
-        "answer": "VALIDATORS"
-      },
-      {
         "question": "What locks funds in DeFi contracts?",
         "answer": "COLLATERAL"
-      },
-      {
-        "question": "The term for a new coin offering?",
-        "answer": "TOKENSALE"
-      },
-      {
-        "question": "A blockchain bridge connects?",
-        "answer": "NETWORKS"
       }
     ]
   }
