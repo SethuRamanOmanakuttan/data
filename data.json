@@ -1,137 +1,159 @@
 {
-  "AdsUrls": ["https://raw.githubusercontent.com/SethuRamanOmanakuttan/data/refs/heads/main/1737431144487.jpeg"],
-  "FeedbackTexts": [
-    "LFG!",
-    "Alright!!",
-    "Bullseye!!",
-    "Wowww!!",
-    "Bingo!"
-  ],
-  "CongratulationsTexts": [
-    "Congratulations!"
-  ],
-  "Difficulty": {
-    "Easy": [
-      {
-        "question": "The first cryptocurrency?",
-        "answer": "BITCOIN"
-      },
-      {
-        "question": "A popular crypto meme coin?",
-        "answer": "DOGE"
-      },
-      {
-        "question": "The process of validating crypto transactions?",
-        "answer": "MINING"
-      },
-      {
-        "question": "Bitcoin's smallest unit?",
-        "answer": "SATOSHI"
-      },
-      {
-        "question": "A place to store your crypto?",
-        "answer": "WALLET"
-      },
-      {
-        "question": "A popular stablecoin?",
-        "answer": "TETHER" 
-      },
-      {
-        "question": "Cryptocurrency inspired by memes?",
-        "answer": "SHIBA"
-      },
-      {
-        "question": "An exchange without a central authority?",
-        "answer": "DEX"
-      },
-      {
-        "question": "Digital collectibles on the blockchain?",
-        "answer": "NFTS"
-      }
+    "AdsUrls": ["https://raw.githubusercontent.com/SethuRamanOmanakuttan/data/refs/heads/main/1737431144487.jpeg"],
+    "FeedbackTexts": [
+      "LFG!",
+      "Alright!!",
+      "Bullseye!!",
+      "Wowww!!",
+      "Bingo!"
     ],
-    "Medium": [
-      {
-        "question": "Popular blockchain for DeFi projects?",
-        "answer": "ETHEREUM"
-      },
-      {
-        "question": "What does PoW stand for?",
-        "answer": "PROOFOFWORK"
-      },
-      {
-        "question": "A cryptocurrency created by splitting from Bitcoin?",
-        "answer": "BITCOINCASH"
-      },
-      {
-        "question": "What is a new coin offering called?", 
-        "answer": "ICO"
-      },
-      {
-        "question": "The first altcoin ever created?",
-        "answer": "NAMECOIN"
-      },
-      {
-        "question": "A privacy-focused cryptocurrency?",
-        "answer": "MONERO"
-      },
-      {
-        "question": "What does Chainlink provide to smart contracts?",
-        "answer": "DATA"
-      },
-      {
-        "question": "A crypto project for interoperability?",
-        "answer": "POLKADOT"
-      },
-      {
-        "question": "A popular hardware wallet brand?", 
-        "answer": "LEDGER"
-      },
-      {
-        "question": "What runs decentralized apps?",
-        "answer": "BLOCKCHAIN"
-      }
+    "CongratulationsTexts": [
+      "Congratulations!"
     ],
-    "Hard": [
-      {
-        "question": "The consensus mechanism used by Bitcoin?",
-        "answer": "PROOFOFWORK"
-      },
-      {
-        "question": "An Ethereum upgrade to PoS?",
-        "answer": "THEMERGE"
-      },
-      {
-        "question": "The process of splitting a blockchain?",
-        "answer": "FORKING"
-      },
-      {
-        "question": "The technique to scale blockchain?",
-        "answer": "SHARDING"
-      },
-      {
-        "question": "Where are crypto transactions recorded?",
-        "answer": "BLOCKCHAIN" 
-      },
-      {
-        "question": "A digital marketplace for NFTs?",
-        "answer": "OPENSEA"
-      },
-      {
-        "question": "Algorithm securing Bitcoin?",
-        "answer": "SHAHASH"
-      },
-      {
-        "question": "The process to generate new tokens?",
-        "answer": "MINTING"
-      },
-      {
-        "question": "An organization run by smart contracts?",
-        "answer": "DAO"
-      },
-      {
-        "question": "What locks funds in DeFi contracts?",
-        "answer": "COLLATERAL"
-      }
+    "Difficulty": {
+      "Easy": [
+        { "question": "A layer-two blockchain", "answer": "OPTIMISM" },
+        { "question": "A technique for combining multiple transactions into one", "answer": "BATCHING" },
+        { "question": "The process of verifying the integrity of a transaction", "answer": "VALIDATION" },
+        { "question": "A type of attack that exploits a vulnerability in smart contract code", "answer": "REENTRANCY" },
+        { "question": "A decentralized storage network", "answer": "IPFS" },
+        { "question": "A cryptocurrency that uses a directed acyclic graph (DAG) instead of a blockchain", "answer": "IOTA" },
+        { "question": "This cryptographic signature algorithm uses elliptic curves for security", "answer": "ECDSA" },
+        { "question": "A decentralized oracle network", "answer": "CHAINLINK" },
+        { "question": "The act of exchanging one cryptocurrency for another", "answer": "SWAP" },
+        { "question": "A type of token that represents a claim on an underlying asset, like a stock or bond", "answer": "SECURITY" },
+        { "question": "A blockchain that uses a proof-of-history consensus mechanism", "answer": "SOLANA" },
+        { "question": "A type of attack that involves manipulating the order of transactions", "answer": "FRONTRUNNING" },
+        { "question": "A method for achieving consensus on a blockchain without mining", "answer": "PROOFOFSTAKE" },
+        { "question": "A popular blockchain known for its use in supply chain management", "answer": "VECHAIN" },
+        { "question": "A decentralized platform for prediction markets", "answer": "AUGUR" },
+        { "question": "A type of token that is used to govern a decentralized autonomous organization", "answer": "GOVERNANCE" },
+        { "question": "This cryptocurrency uses Scrypt as its hashing algorithm", "answer": "LITECOIN" },
+        { "question": "A type of attack that involves flooding a network with traffic", "answer": "DDOS" },
+        { "question": "A method for generating random numbers on a blockchain", "answer": "VRF" },
+        { "question": "A type of cryptocurrency that is designed to maintain a stable value by being pegged to another asset", "answer": "STABLECOIN" },
+        { "question": "A decentralized exchange that uses an automated market maker (AMM)", "answer": "CURVE" },
+        { "question": "A type of attack that involves exploiting a vulnerability in a cryptographic algorithm", "answer": "cryptanalysis" },
+        { "question": "A method for securing a blockchain where nodes stake tokens to validate transactions", "answer": "PROOFofSTAKE" },
+        { "question": "This cryptocurrency was created as a peer-to-peer electronic cash system", "answer": "BITCOIN" },
+        { "question": "A decentralized platform for creating and trading synthetic assets", "answer": "SYNTHETIX" },
+        { "question": "This type of token represents a share of the profits generated by a decentralized application", "answer": "DIVIDENDTOKEN" },
+        { "question": "This blockchain uses Liquid Proof of Stake (LPoS) for consensus", "answer": "TEZOS" },
+        { "question": "A type of attack that involves creating a large number of fake accounts", "answer": "SYBIL" },
+        { "question": "This type of ZK proof is used for range proofs and verifying credentials", "answer": "SNARK" },
+        { "question": "ZK proofs are used in this privacy-focused cryptocurrency", "answer": "Zcash" },
+        { "question": "A decentralized platform for decentralized finance (DeFi) applications", "answer": "MAKERDAO" },
+        { "question": "A type of attack that involves stealing private keys", "answer": "PHISHING" },
+        { "question": "These are used to transfer tokens between different blockchains", "answer": "BRIDGES" },
+        { "question": "This refers to the permanent and unchangeable nature of blockchain records", "answer": "IMMUTABILITY" },
+        { "question": "A decentralized platform for content sharing", "answer": "STEEMIT" },
+        { "question": "A type of attack that involves manipulating the price of a cryptocurrency", "answer": "PUMPDUMP" },
+        { "question": "A method for distributing tokens to a community", "answer": "AIRDROP" },
+        { "question": "A type of cryptocurrency that is designed to be used for governance", "answer": "DASH" },
+        { "question": "A decentralized platform for online gambling", "answer": "FUNFAIR" },
+        { "question": "This type of malware can record keystrokes to steal a crypto wallet's seed phrase", "answer": "KEYLOGGER" },
+        { "question": "A method for creating a secure and private connection to the internet", "answer": "VPN" },
+        { "question": "This blockchain platform uses a Delegated Byzantine Fault Tolerance consensus mechanism", "answer": "NEO" },
+        { "question": "A decentralized platform for social media", "answer": "AKASHA" },
+        { "question": "This type of wallet allows you to interact with dApps and Web3", "answer": "HOTWALLET" },
+        { "question": "Allowing users to lend and borrow crypto without intermediaries", "answer": "DEFI" },
+        { "question": "This feeless cryptocurrency is often used for microtransactions due to its speed and efficiency", "answer": "NANO" }
+    ],
+      "Medium": [
+        { "question": "A standard for mnemonic phrases in crypto wallets?", "answer": "Slush" },
+        { "question": "Introduced the Proof-of-Elapsed-Time consensus?", "answer": "Intel" },
+        { "question": "A Web3 wallet for interacting with dApps?", "answer": "Phantom" },
+        { "question": "Blockchain using Ouroboros consensus protocol?", "answer": "Cardano" },
+        { "question": "A decentralized CDN built on Ethereum?", "answer": "Livepeer" },
+        { "question": "First project to implement zk-Rollups?", "answer": "Loopring" },
+        { "question": "A lending and borrowing protocol on Ethereum?", "answer": "Aave" },
+        { "question": "Bitcoin wallet enhancing privacy with CoinJoin?", "answer": "Samurai" },
+        { "question": "Founder of the Tezos blockchain project?", "answer": "Breitman" },
+        { "question": "A DEX using the burn-mint fee model?", "answer": "Curve" },
+        { "question": "Co-creator of the BitTorrent protocol?", "answer": "BramCohen" },
+        { "question": "Project enabling decentralized data marketplaces?", "answer": "Ocean" },
+        { "question": "Blockchain that pioneered parachains?", "answer": "Polkadot" },
+        { "question": "Consensus mechanism used in Avalanche?", "answer": "Snowman" },
+        { "question": "Layer-1 blockchain implementing sharding?", "answer": "Near" },
+        { "question": "Team behind the zkSync scaling solution?", "answer": "MatterLabs" },
+        { "question": "Blockchain focused on AI-powered applications?", "answer": "FetchAI" },
+        { "question": "Protocol that first introduced Flash Loans?", "answer": "Aave" },
+        { "question": "Blockchain protocol supporting Whisper?", "answer": "Ethereum" },
+        { "question": "System ensuring slashing for bad validator behavior?", "answer": "Slashing" },
+        { "question": "Blockchain using HotStuff consensus?", "answer": "Aptos" },
+        { "question": "Blockchain supporting smart contracts in Java?", "answer": "Flow" },
+        { "question": "Platform for decentralized travel reviews?", "answer": "Travala" },
+        { "question": "A platform tokenizing intellectual property assets?", "answer": "Kodak" },
+        { "question": "Token powering decentralized storage networks?", "answer": "Filecoin" },
+        { "question": "Project focused on tracking carbon credits?", "answer": "Klima" },
+        { "question": "Blockchain introducing the Layer-0 concept?", "answer": "Cosmos" },
+        { "question": "Protocol enabling decentralized synthetic assets?", "answer": "UMA" },
+        { "question": "Blockchain providing proof-of-identity features?", "answer": "Civic" },
+        { "question": "Proposer of the Casper Proof-of-Stake protocol?", "answer": "Vitalik" },
+        { "question": "DeFi protocol automating liquidity farming?", "answer": "Yearn" },
+        { "question": "Token enabling fan voting on sports platforms?", "answer": "Socios" },
+        { "question": "Native token of Curve Finance protocol?", "answer": "CRV" },
+        { "question": "Protocol designed for metaverse digital assets?", "answer": "Mana" },
+        { "question": "Proposer of Bitcoin fungibility enhancements?", "answer": "AdamBack" },
+        { "question": "Blockchain using Liquid Democracy governance?", "answer": "Aragon" },
+        { "question": "Platform for creating tokenized stocks?", "answer": "Mirror" },
+        { "question": "Author of the Filecoin Whitepaper?", "answer": "JuanBenet" },
+        { "question": "Protocol securing decentralized synthetic equities?", "answer": "UMA" },
+        { "question": "Protocol ensuring security for cross-chain bridges?", "answer": "Axelar" },
+        { "question": "Blockchain employing DPoC consensus?", "answer": "Aleph" },
+        { "question": "Project governing royalties for NFTs?", "answer": "Rarible" },
+        { "question": "Blockchain optimized for central bank digital currencies?", "answer": "Corda" },
+        { "question": "A term describing composability in DeFi?", "answer": "Lego" }
     ]
+    
+    
+    ,
+      "Hard":[
+        { "question": "This privacy-enhancing technology breaks down transactions into smaller denominations to obscure their origins", "answer": "COINJOIN" },
+        { "question": "This type of cryptography is used to prove knowledge of a secret without revealing the secret itself", "answer": "ZKPROOF" },
+        { "question": "This attack exploits the difference in price of an asset on different exchanges", "answer": "ARBITRAGE" }, 
+        { "question": "This refers to the total value of all cryptocurrencies in circulation", "answer": "MARKETCAP" },
+        { "question": "This type of blockchain allows for private transactions within a permissioned network", "answer": "HYPERLEDGER" },
+        { "question": "This concept in tokenomics refers to the gradual release of tokens into circulation", "answer": "EMISSIONRATE" },
+        { "question": "This metric measures the number of active addresses on a blockchain network", "answer": "NETWORKACTIVITY" },
+        { "question": "This type of attack targets vulnerabilities in the cryptography algorithm used by a blockchain", "answer": "cryptanalysis" },
+        { "question": "This refers to the process of a blockchain splitting into two separate chains", "answer": "HARDFORK" },
+        { "question": "These provide external data to trigger smart contract execution", "answer": "ORACLES" },
+        { "question": "This refers to the process of converting a physical asset into a digital token on a blockchain", "answer": "TOKENIZATION" },
+        { "question": "This type of attack involves manipulating the timestamp of a block", "answer": "TIMESTAMPMANIPULATION" },
+        { "question": "This refers to the use of cryptography to ensure the integrity and authenticity of data", "answer": "DIGITALSIGNATURE" },
+        { "question": "This type of node stores the entire blockchain history and validates transactions", "answer": "FULLNODE" },
+        { "question": "This refers to the total supply of a cryptocurrency that will ever exist", "answer": "MAXSUPPLY" },
+        { "question": "This type of fork doesn't require consensus and can be used for backward compatibility", "answer": "SOFTFORK" },
+        { "question": "This technology enables trustless cross-chain token swaps", "answer": "ATOMICSWAP" },
+        { "question": "This hardware wallet uses a secure element and supports a wide range of cryptocurrencies", "answer": "TREZOR" },
+        { "question": "This accounting model is used to track ownership of Bitcoin", "answer": "UTXO" },
+        { "question": "This attack involves controlling most of a network's hashrate", "answer": "FIFTYONE" },
+        { "question": "This type of attack exploits the time it takes to finalize a blockchain transaction", "answer": "FINALITY" },
+        { "question": "This cryptographic primitive allows for verifiable random functions without revealing hidden data", "answer": "BLS" },
+        { "question": "This combines your staked assets with others to increase rewards", "answer": "POOLING" },
+        { "question": "This DEX attack exploits a vulnerability allowing repeated withdrawals", "answer": "REENTRANCY" },
+        { "question": "This refers to the economic model of a blockchain platform", "answer": "TOKENOMICS" },
+        { "question": "co-founded Ethereum", "answer": "JOSEPHLUBIN" }, 
+        { "question": "This attack involves manipulating transaction fees", "answer": "FEEATTACK" }, 
+        { "question": "This online retailer was one of the first to issue stock on a blockchain", "answer": "OVERSTOCK" },
+        { "question": "This protocol enables private transactions on Ethereum", "answer": "AZTEC" }, 
+        { "question": "This Bitcoin developer proposed the SegWit upgrade", "answer": "PIETERWILLE" },
+        { "question": "This consensus mechanism uses storage space instead of computing power", "answer": "PROOFOFSPACE" },
+        { "question": "This Swiss company claims to have issued the first legally binding tokenized shares", "answer": "MTPELERIN" },
+        { "question": "This blockchain game pioneered the play-to-earn model", "answer": "AXIE" }, 
+        { "question": "This company created the ERC-721 standard for NFTs", "answer": "DapperLabs" },
+        { "question": "This former Wall Street executive leads the Digital Currency Group", "answer": "BARRYSILBERT" },
+        { "question": "The first decentralized exchange (DEX)", "answer": "ETHERDELTA" },
+        { "question": "This platform allows users to monetize their health data", "answer": "STREAMR" }, 
+        { "question": "This project pioneered on-chain governance with its token", "answer": "DASH" }, 
+        { "question": "This early cypherpunk project used proof-of-work for spam prevention", "answer": "DIGICASH" }, 
+        { "question": "This DAO's hack led to a major Ethereum hard fork", "answer": "THEDAO" },
+        { "question": "This platform allows artists to tokenize and sell music royalties", "answer": "ANoteMusic" }, 
+        { "question": "This platform lets fans buy tokens to vote on club decisions", "answer": "CHILIZ" }, 
+        { "question": "This DEX uses an order book and off-chain order matching", "answer": "dYdX" }, 
+        { "question": "This attack involves inserting trades before and after a victim's", "answer": "SANDWICH" }, 
+        { "question": "This protocol allows users to create and share prediction markets", "answer": "Gnosis" }
+      ]
+    }
   }
-}
