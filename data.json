@@ -131,8 +131,6 @@
         { "question": "This refers to the process of a blockchain splitting into two separate chains", "answer": "HARDFORK" },
         { "question": "These provide external data to trigger smart contract execution", "answer": "ORACLES" },
         { "question": "This refers to the process of converting a physical asset into a digital token on a blockchain", "answer": "TOKENIZATION" },
-        { "question": "This type of attack involves manipulating the timestamp of a block", "answer": "TIMESTAMPMANIPULATION" },
-        { "question": "This refers to the use of cryptography to ensure the integrity and authenticity of data", "answer": "DIGITALSIGNATURE" },
         { "question": "This type of node stores the entire blockchain history and validates transactions", "answer": "FULLNODE" },
         { "question": "This refers to the total supply of a cryptocurrency that will ever exist", "answer": "MAXSUPPLY" },
         { "question": "This type of fork doesn't require consensus and can be used for backward compatibility", "answer": "SOFTFORK" },
