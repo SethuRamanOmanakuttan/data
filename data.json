@@ -89,7 +89,7 @@
         { "question": "A Consensus mechanism used in Avalanche", "answer": "SNOWMAN" },
         { "question": "Layer-1 blockchain implementing sharding?", "answer": "NEAR" },
         { "question": "Team behind the zkSync scaling solution?", "answer": "MATTERLABS" },
-        { "question": "Blockchain focused on AI-powered applications?", "answer": "FETCHAI" },
+        { "question": "a blockchain-based platform that combines AI and decentralized technologies to enable autonomous agents ", "answer": "FETCHAI" },
         { "question": "Protocol that first introduced Flash Loans?", "answer": "AAVE" },
         { "question": "Blockchain protocol supporting Whisper?", "answer": "ETHEREUM" },
         { "question": "Mechanism that penalizes malicious validators in proof-of-stake systems?", "answer": "SLASHING" },
